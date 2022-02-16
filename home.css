@@ -11,7 +11,7 @@ html{
 .header{
     min-height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4,9,30,0.7 ),rgba(4,9,30,0.7)),url(image/test.jpg);
+    background-image: linear-gradient(rgba(7, 22, 78, 0.7),rgba(58, 36, 41, 0.7)),url(image/istockphoto-619643870-612x612.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -46,7 +46,7 @@ nav img{
     content: "";
     width: 0%;
     height: 2px;
-    background: #00ff55;
+    background: #ec0c4f;
     display: block;
     margin: auto;
     transition: 0.5s;
@@ -88,8 +88,8 @@ nav img{
 }
 
 .button:hover{
-    border: 2px solid #26d35fdc;
-    background:#26d35fdc;
+    border: 2px solid #2926d3dc;
+    background:#d32699dc;
     transition: 0.8s;
 }
 
