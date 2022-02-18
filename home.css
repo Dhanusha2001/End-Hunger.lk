@@ -63,7 +63,7 @@ nav img{
     top: 55%;
     left: 50%;
     transform: translate(-50%,-50%);
-    text-align:center;
+    text-align:center;  
 }
 .text-box h1{
     font-size: 62px;
@@ -212,6 +212,7 @@ h2{
     margin: auto;
     text-align: center;
     padding-top: 50px;
+    font-size: 100px;
 }
 
 
