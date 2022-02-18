@@ -96,3 +96,29 @@ nav img{
 nav .fa{
     display: none;
 }
+h1{
+    font-size:400%;
+    color:Navy;
+    font-family:bold;  
+} 
+
+* {
+        box-sizing: border-box;
+      }
+      .parent {
+        position: relative;
+        max-width: 1000px;
+        margin:0 auto;
+      }
+      .parent img {
+        vertical-align: middle;
+      }
+      .parent .text {
+        position: absolute;
+        bottom: 0;
+        background: rgb(0, 0, 0);
+        background: rgba(0, 0, 0, 0.5);s
+        color: #ffffff;
+        width: 100%;
+        padding: 20px;
+     }
