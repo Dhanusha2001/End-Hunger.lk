@@ -9,9 +9,9 @@ html{
 }
 
 .header{
-    min-height: 100vh;
+    min-height: 10vh;
     width: 100%;
-    background-image: linear-gradient(rgba(7, 22, 78, 0.7),rgba(58, 36, 41, 0.7)),url(image/istockphoto-619643870-612x612.jpg);
+    background-image: linear-gradient(rgba(7, 22, 78, 0.7),rgba(58, 36, 41, 0.7)),url(image/5.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -39,7 +39,7 @@ nav img{
 .nav-links ul li a{
     color: #fff;
     text-decoration: none;
-    font-size: 28px;
+    font-size: 38px;
 }
 
 .nav-links ul li::after{

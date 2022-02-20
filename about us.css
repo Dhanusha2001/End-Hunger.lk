@@ -9,7 +9,7 @@ html{
 }
 
 .header{
-    min-height: 100vh;
+    min-height: 10vh;
     width: 100%;
     background-image: linear-gradient(rgba(6, 15, 46, 0.7),rgba(29, 37, 33, 0.7)),url(image/5.jpg);
     background-position: center;
@@ -55,10 +55,15 @@ nav img{
 .nav-links ul li:hover::after{
     width: 100%;
 }
-h1{
-    font-size:400%;
-    color:Navy;
-    font-family:bold;
+
+.text-box{
+    width: 90%;
+    color: #fff;
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
 }
 * {
         box-sizing: border-box;
