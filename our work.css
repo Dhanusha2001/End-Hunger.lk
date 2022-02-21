@@ -122,3 +122,19 @@ h1{
         width: 100%;
         padding: 20px;
      }
+     p{
+        font-size:200%;
+        color:Yellow;
+        font-family:bold;   
+    }
+    h{  
+        font-size:300%;
+        color:black;
+        font-family:Algerian;  
+    }
+    p1{
+        font-size:140%;
+        color:black;
+        
+    }
+    
