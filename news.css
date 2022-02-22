@@ -141,13 +141,13 @@ nav .fa{
 .blog-section .section-content .cards .card .article{
     padding:15px 0px;
 }
-.blog-section .section-content.cards .card.article h4{
+.blog-section .section-content.cards .card.article h2{
     font-size: 25px;
     color: #4a4a4a;
 
 }
-.blog-section .section-content.cards .card.article p{
-    font-size: 20px;
+.blog-section .section-content.cards .card .article p{
+    font-size: 300px;
     margin: 10px 2px;
     color: #df1616;
 }
