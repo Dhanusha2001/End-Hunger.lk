@@ -75,7 +75,7 @@ nav img{
     color: rgb(255, 255, 255);
 }
 
-/*.button{
+.button{
     display: inline-block;
     text-decoration: none;
     color: #fff;
@@ -95,4 +95,58 @@ nav img{
 
 nav .fa{
     display: none;
+}
+
+.blog-section{
+    width: 100%;
+}
+.blog-section .blog-content{
+    width: 85%;
+    margin: 20px auto;
+}
+.blog-section .blog-content .title{
+    width: 60%;
+    text-align: center;
+    margin: auto;
+}
+.blog-section .blog-content .title h2{
+    font-size: 40px;
+    color: #23d25d;
+    text-transform: uppercase;
+
+}
+.blog-section .blog-content .title p{
+    font-size: 18px;
+    color: #6a6a6a;
+    margin-top: 20px;
+
+}
+.blog-section .blog-content .cards{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 50px;
+    margin: 25px auto;
+}
+.blog-section .blog-content .cards .cards{
+    width: 100%;
+    background-color: #f7f7f7;
+    position: relative;
+}
+.blog-section .blog-content .cards .card img{
+    width: 100px;
+    height: auto;
+
+}
+.blog-section .blog-content .cards .card .article{
+    padding:15px 20px;
+}
+.blog-section .blog-content.cards .card.article h4{
+    font-size: 20px;
+    color: #4a4a4a;
+
+}
+.blog-section .blog-content.cards .card.article p{
+    font-size: 16px;
+    margin: 10px 0px;
+    color: #6a6a6a;
 }
