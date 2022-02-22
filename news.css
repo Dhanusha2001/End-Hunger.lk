@@ -159,4 +159,24 @@ nav .fa{
     color: #fff;
     margin-bottom: 20px;
 }
-.blog-section .s
+.blog-section .section-content .cards .card .posted-date p{
+    font-weight: 600;
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: inline-block;
+    background-color: #25c5c5;
+    padding: 6px 15px;
+}
+@media screen and (max-width: 992px) {
+    .blog-section .section-content .cards{
+
+        grid-template-columns: repeat(2,1fr);
+          
+}
+@media screen and (max-width: 768px) {
+    .blog-section .section-content .cards{
+
+        grid-template-columns: repeat(2,1fr);
+          
+}
