@@ -136,29 +136,34 @@ nav .fa{
 .blog-section .section-content .cards .card img{
     width: 350px;
     height: auto;
+    border-radius: 7px;
+    border-
 
 }
 .blog-section .section-content .cards .card .article{
     padding:15px 0px;
 }
 .blog-section .section-content .cards .card .article h2{
-    font-size: 25px;
+    font-size: 35px;
     color: #d41515;
+    line-height: 0.7;
 
 }
 .blog-section .section-content .cards .card .article p{
-    font-size: 25px;
+    font-size: 27px;
     margin: 0px 0px;
     color: #000000;
+    line-height: 1;
 }
 .blog-section .section-content .cards .card a{
     text-decoration: none;
     display: inline-block;
-    background-color: #25c5c5;
+    background-color: #370cd4;
     padding: 10px 15px;
     margin-left: 0px;
     color: #fff;
     margin-bottom: 20px;
+    font-size: 20px;
 }
 /*.blog-section .section-content .cards .card .posted-date p{
     font-weight: 600;
