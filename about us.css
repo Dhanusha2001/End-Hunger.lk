@@ -66,70 +66,34 @@ nav img{
     text-align:center;  
 }
 .text-box h1{
-    font-size: 62px;
+    font-size: 140px;
 }
 
 .text-box p{
     margin: 10px 0 40px;
-    font-size: 40px; 
+    font-size: 53px; 
     color: rgb(255, 255, 255);
-}
+    line-height: 0.8;
 
-.button{
-    display: inline-block;
-    text-decoration: none;
-    color: #fff;
-    border: 2px solid #fff;
-    padding: 12px 39px;
-    font-size: 30px;
-    background: transparent;
-    position: relative;
-    cursor: pointer;
-}
-
-.button:hover{
-    border: 2px solid #2926d3dc;
-    background:#d32699dc;
-    transition: 0.8s;
 }
 
 nav .fa{
     display: none;
-}
-p{
-    font-size:200%;
-    color:Yellow;   
-}
-h2{
-    font-size:200%;
-    color:black;
-    font-family:Berlin Sans FB;     
+     
 }
 
-.obj1{
-display:flex;
-align-items:center;
-justify-content:center;
-}
-img{
- max-width:100%
-}
-.img-col{
- flex-basis:40%
+.image-section{
+    margin-top: 0px;
+    
+
 }
 
-p1{
-    font-size:140%;
-    color:black;   
+.text-box1{
+    text-align: right;
+    font-size: 40px;
+    margin-bottom: 400px;
+    
 }
-
-h5{
-  font-size:200%;
-}
-h6{  
-    font-size:300%;
-    color:black;
-    font-family:Algerian;
 
 
 
