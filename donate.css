@@ -106,7 +106,11 @@ nav .fa{
     display: none;
 
 }
-
+.titile{
+    font-size: 50px;
+    color: #23d25d;
+    text-transform: uppercase;
+}
 
 
 
@@ -133,7 +137,12 @@ overflow: hidden;
     font-size: 400px
     ;
 }
-
+.boxhead2{
+    font-size: 100px;
+    color: blue;
+    text-align: center;
+    padding-top: 80px;
+}
 
 
 
