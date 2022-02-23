@@ -97,8 +97,8 @@ nav img{
 }
 
 .button:hover{
-    border: 2px solid #2926d3dc;
-    background:#d32699dc;
+    border: 2px solid #e0381bdc;
+    background:#3911f0dc;
     transition: 0.8s;
 }
 
@@ -114,7 +114,7 @@ nav .fa{
     width: 90%;
     padding: 20px;
     margin: 100px auto;
-    background: rgb(253, 253, 253);
+    background: rgb(102, 235, 235);
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -142,7 +142,7 @@ overflow: hidden;
 position:absolute;
 margin-left:450px;
 margin-top: 5px;
-font-size: 36px;
+font-size: 50px;
 color: #ec0c4f;
 }
 
@@ -156,7 +156,8 @@ color: #ec0c4f;
     position:absolute;
     margin-left:450px;
     margin-top: 50px;
-    font-size: 30px;
+    font-size: 32px;
+    line-height: 1;
     }
 
     .button1{
@@ -173,11 +174,12 @@ color: #ec0c4f;
         float:right;
         margin-top: 210px;
         margin-right: 20px;
+        background-color: blue;
     }
     
     .button1:hover{
-        border: 2px solid #2926d3dc;
-        background:#36068ddc;
+        border: 2px solid #ee1111dc;
+        background:#ee9f0bdc;
         transition: 0.8s;
     }
     
