@@ -118,7 +118,7 @@ nav .fa{
     width: 90%;
     padding: 20px;
     margin: 100px auto;
-    background: rgb(102, 235, 235);
+    background: rgb(255, 248, 241);
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -132,6 +132,16 @@ margin: 050px 100px;
 transition: 1s;
 overflow: hidden;
 
+
+}
+
+.box:hover{
+    transform: scale(1.1);
+    background: #d3c19bda;
+    
+    z-index: 2;
+    box-shadow: 1px 1px 1px #000;
+    
 }
 .h2{
     font-size: 400px
@@ -158,6 +168,7 @@ color: #ec0c4f;
 .box-image{
     width:400px;
     height:400px;
+    border: #4f0fe2;
 }
 
 .boxpara{
@@ -173,7 +184,7 @@ color: #ec0c4f;
         display: inline-block;
         text-decoration: none;
         color: #fff;
-        border: 2px solid #fff;
+        border: 2px solid rgb(255, 104, 3);
         padding: 6px 20px;
         font-size: 38px;
         background: transparent;
@@ -183,12 +194,13 @@ color: #ec0c4f;
         float:right;
         margin-top: 240px;
         margin-right: 20px;
-        background-color: blue;
+        background-color: rgb(253, 194, 0);
+        opacity: 60%;
     }
     
     .button1:hover{
         border: 2px solid #ee1111dc;
-        background:#ee9f0bdc;
+        background:#ec0c4f;
         transition: 0.8s;
     }
     
