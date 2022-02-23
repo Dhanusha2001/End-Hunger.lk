@@ -122,7 +122,7 @@ nav .fa{
 
 .box{
     width: 1190px;
-    height: 300px;
+    height: 330px;
     background: rgb(252, 231, 203);
 margin: 050px 100px;
 transition: 1s;
@@ -157,7 +157,7 @@ color: #ec0c4f;
     margin-left:450px;
     margin-top: 50px;
     font-size: 32px;
-    line-height: 1;
+    line-height: 0.9;
     }
 
     .button1{
@@ -172,7 +172,7 @@ color: #ec0c4f;
         cursor: pointer;
         text-align: left;
         float:right;
-        margin-top: 210px;
+        margin-top: 240px;
         margin-right: 20px;
         background-color: blue;
     }
