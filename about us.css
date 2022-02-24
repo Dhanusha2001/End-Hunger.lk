@@ -318,15 +318,15 @@ img{
 .card1>.container1:after{
     background-image: linear-gradient(
         135deg,
-        #0100ec,
-        #fb36f4
+        #0101a8,
+        #000000
     );
 }
 .card2>.container1:after{
     background-image: linear-gradient(
         135deg,
-        #2bdce3,
-        #42ffdb
+        #1d2a2b,
+        #011612
     );
 }
 .card3>.container1:after{
