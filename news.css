@@ -183,37 +183,21 @@ nav .fa{
     width: 100%;
     text-align: center;
     padding: 30px 0;
-    }
-    
-    .footer h4{
+}
+
+.footer h4{
     font-size: 35px;
     margin-bottom: 25px;
     margin-top: 20px;
     font-weight: 600;
-    
-    }
-    
-    .footer p{
+
+}
+
+.footer p{
     font-size: 18px;
-    }
-    
-    .icons{
-    color: rgb(236, 28, 63);
-    font-size: 20px;
-    }
-@media screen and (max-width: 992px) {
-    .blog-section .section-content .cards{
-
-        grid-template-columns: repeat(2,1fr);
-          
-}
-@media screen and (max-width: 768px) {
-    .blog-section .section-content .cards{
-
-        grid-template-columns: repeat(2,1fr);
-          
 }
 
-
-
-
+.icons{
+color: rgb(236, 28, 63);
+font-size: 20px;
+}
