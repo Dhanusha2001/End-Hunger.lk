@@ -9,9 +9,9 @@ html{
 }
 
 .header{
-    min-height: 10vh;
+    min-height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(6, 15, 46, 0.7),rgba(29, 37, 33, 0.7)),url(image/5.jpg);
+    background-image: linear-gradient(rgba(6, 15, 46, 0.7),rgba(29, 37, 33, 0.7)),url(image/news.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -66,8 +66,9 @@ nav img{
     text-align:center;  
 }
 .text-box h1{
-    font-size: 62px;
+    font-size: 140px;
 }
+
 
 .text-box p{
     margin: 10px 0 40px;
@@ -116,7 +117,7 @@ nav .fa{
 
 }
 .blog-section .section-content .title p{
-    font-size: 28px;
+    font-size: 308px;
     color: #6a6a6a;
     margin-top: 20px;
     
